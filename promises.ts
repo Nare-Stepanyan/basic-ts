@@ -3,8 +3,6 @@
 Task: Write an asynchronous function that fetches data from a mock API and returns the data. Use Promise and async/await.
 */
 
-import { error } from "console";
-
 interface IUser {
   id: number;
   name: string;
